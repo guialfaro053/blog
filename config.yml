@@ -1,0 +1,102 @@
+baseURL: "https://guialfaro053.github.io/" 
+title: Guillermo Alfaro
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Projects
+          url: projects/
+          weight: 1
+        - name: Papers
+          url: papers/
+          weight: 2
+        - name: NLP Stuff
+          url: nlp/
+          weight: 3 
+        - name: Korea
+          url: korea/
+          weight: 4
+
+params:
+    description: "Guillermo Alfaro's Website"
+    author: Guillermo Alfaro
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Guillermo Alfaro
+          subtitle: "I am an NLP engineer at Brand Engagement Network. I work on various topics on language models such as fine-tuning, optimization, deployment, and just for fun too :)"
+          imageUrl: "pp.JPG"
+          imageWidth: 200
+          imageHeight: 200
+          imageTitle: Guillermo Profile Picture
+          buttons:
+            - name: Projects
+              url: projects/
+            - name: Papers
+              url: papers/
+            - name: NLP Stuff
+              url: nlp/
+            - name: Korea
+              url: korea/
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:guillermo.rivera.1e@gmail.com
+        - name: YouTube
+          url: https://www.youtube.com/@guillermoalfaro2633
+        - name: GitHub
+          url: https://github.com/guialfaro053
+        - name: Linkedin
+          url: https://www.linkedin.com/in/guillermo-alfaro-10851a25a/
+        - name: Twitter
+          url: https://twitter.com/G_RiveraAlf
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Guillermo Alfaro"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
