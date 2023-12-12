@@ -1,4 +1,4 @@
 ---
 title: "Projects"
-description: "Preprints and articles on this website."
+description: "Projects I carry out for fun"
 ---

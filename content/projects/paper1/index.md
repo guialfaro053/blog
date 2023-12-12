@@ -1,23 +1,23 @@
 ---
-title: "Paper Title 1" 
-date: 2012-06-01
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
-description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
+title: "Function Calling with LLMs" 
+# date: 08/16/2014
+# tags: ["keyword 1","keyword 2","keyword 3"]
+author: "Guillermo Alfaro"
+description: "WIP 🛠️" 
+summary: "Trying to use a LLM (using Mistral right now) for function calling." 
 cover:
-    image: "paper1.png"
-    alt: "Image caption"
+    image: "functioncalling.png"
+    alt: "Function calling prompted from DALLE-3"
     relative: false
 editPost:
-    URL: "https://doi.org/10.1257/aer.102.4.1721"
-    Text: "Journal Name"
+    # URL: "https://doi.org/10.1257/aer.102.4.1721"
+    # Text: "Journal Name"
 
 ---
 
 ---
 
-##### Download
+<!-- ##### Download
 
 + [Paper](paper1.pdf)
 + [Online appendix](appendix1.pdf)
@@ -59,5 +59,5 @@ year = {Year}}
 
 + [Presentation slides](presentation1.pdf)
 + [Dissertation title](https://escholarship.org/uc/item/7jr3m96r) – PhD dissertation on which this paper is based.
-+ [Column title](https://cep.lse.ac.uk/pubs/download/cp365.pdf) – Nontechnical column describing the paper.
++ [Column title](https://cep.lse.ac.uk/pubs/download/cp365.pdf) – Nontechnical column describing the paper. -->
 
