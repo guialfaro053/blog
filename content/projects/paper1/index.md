@@ -4,10 +4,10 @@ title: "Function Calling with LLMs"
 # tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Guillermo Alfaro"
 description: "WIP 🛠️" 
-summary: "Trying to use a LLM (using Mistral right now) for function calling." 
+summary: "Trying to use Large Language Models (using Mistral right now) for function calling." 
 cover:
     image: "functioncalling.png"
-    alt: "Function calling prompted from DALLE-3"
+    alt: "Function calling image prompted with DALLE-3"
     relative: false
 editPost:
     # URL: "https://doi.org/10.1257/aer.102.4.1721"
