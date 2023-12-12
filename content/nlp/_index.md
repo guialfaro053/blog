@@ -1,4 +1,4 @@
 ---
 title: "NLP"
-description: "Datasets on various topics."
+description: "Things about NLP"
 ---

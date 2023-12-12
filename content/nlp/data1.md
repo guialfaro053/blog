@@ -1,19 +1,19 @@
 ---
-title: "Dataset Title" 
-date: 2023-09-07
-tags: ["keyword 5","keyword 6","keyword 7","keyword 10"]
-author: ["Author Name 1", "Author Name 2", "Author Name 3"]
-description: "This dataset contains things."
-summary: "This dataset contains information on things in several countries."
-# cover:
-    # image: "/data1.png"
-    # alt: "Figure caption"
-    # relative: false
+title: "Building Docker Containers for GPU Applications" 
+# date: 2023-09-07
+tags: ["Docker","GPU"]
+author: ["Guillermo Alfaro"]
+description: "Description on some hacks to build a Docker containers that use GPU "
+summary: "Building Docker containers can be tricky, and let alone if they use GPUs. However, there are some 'hacks' or techinques that I have found to be useful and I would lime to share with y'all to save you some time if you face these challenges."
+cover:
+    image: "docker.png"
+    alt: "Cute Docker Container"
+    relative: True
 editPost:
-    URL: "https://github.com/pmichaillat/squareroot-uv"
-    Text: "GitHub repository"
-showToc: true
-disableAnchoredHeadings: false
+    # URL: "https://github.com/pmichaillat/squareroot-uv"
+    # Text: "GitHub repository"
+# showToc: true
+# disableAnchoredHeadings: false
 
 ---
 
