@@ -1,4 +1,4 @@
 ---
 title: "Korea"
-description: "Datasets on various topics."
+description: "Life in Korea"
 ---
