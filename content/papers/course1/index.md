@@ -1,21 +1,21 @@
 ---
 title: "Interesting Paper 1"
-tags: ["keyword 1","keyword 2","keyword 3"]
+# tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Guillermo Alfaro"
 header-includes:
    - \usepackage{siunitx}
-description: "This papers presents the intrincacies of Flash-Attention" 
-summary: 'Flash Attention is capable of increasing the speed of a model to $ 1000m/s $  '
+description: "WIP 🛠️" 
+summary: 'WIP 🛠️'
 cover:
-    image: "course1.png"
-    alt: "Figure caption"
+    image: "wip.png"
+    alt: "WIP"
     relative: false
 showToc: true
 disableAnchoredHeadings: false
 
 ---
 
-## Introduction
+<!-- ## Introduction
 
 This course covers research topics related to things. It tries to answer several questions: 
 *Italic* and **Bold**
@@ -121,4 +121,4 @@ This section introduces other things.
 This section turns to other things. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -->
