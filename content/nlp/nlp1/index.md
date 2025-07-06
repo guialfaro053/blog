@@ -1,8 +1,9 @@
 ---
 title: "Building Docker Containers for GPU Applications" 
 # date: 2023-09-07
+weight: 2
 tags: ["Docker","GPU","NLP"]
-author: ["Guillermo Alfaro"]
+author: ["Guillermo Alfaro. September 2023"]
 description: "Description on some hacks to build a Docker containers that use GPU "
 summary: "Building Docker containers can be tricky, and let alone if they use GPUs. However, there are some 'hacks' or techinques that I have found to be useful and I would lime to share with y'all to save you some time if you face these challenges."
 cover:
