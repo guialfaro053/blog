@@ -51,7 +51,7 @@ params:
               url: nlp/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: "/cv.pdf"
         - name: Email
           url: mailto:guillermo.rivera.1e@gmail.com
         - name: YouTube
