@@ -11,18 +11,9 @@ taxonomies:
 
 menu:
     main:
-        - name: Projects
-          url: projects/
-          weight: 1
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: NLP Stuff
+        - name: Blog
           url: nlp/
-          weight: 3 
-        - name: Korea
-          url: korea/
-          weight: 4
+          weight: 1
 
 params:
     description: "Guillermo Alfaro's Website"
@@ -50,20 +41,14 @@ params:
     profileMode:
           enabled: true
           title: Guillermo Alfaro
-          subtitle: "I am an NLP engineer at Brand Engagement Network. I work on various topics on language models such as fine-tuning, optimization, deployment, and just for fun too :)"
+          subtitle: "I am an AI engineer at Brand Engagement Network. I like deploying stuff and making code run faster :)"
           imageUrl: "pp.JPG"
           imageWidth: 200
           imageHeight: 200
           imageTitle: Guillermo Profile Picture
           buttons:
-            - name: Projects
-              url: projects/
-            - name: Papers
-              url: papers/
-            - name: NLP Stuff
+            - name: Blog
               url: nlp/
-            - name: Korea
-              url: korea/
     socialIcons:
         - name: CV
           url: cv.pdf
