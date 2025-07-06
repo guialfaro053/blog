@@ -58,7 +58,7 @@ d_n = d_{n-1} + 2d_{n-1} + \frac{\ell}{2^{n-1}} = 3d_{n-1} + \frac{\ell}{2^{n-1}
 \qquad d_1 = \ell.
 $$
 
-It doesn't long to solve and the final result I got was:
+It doesn't take long to solve, and the final result I got was:
 
 $$
 d_n = \frac{2l}{5} \left( 3^n - \frac{1}{2^n} \right)
