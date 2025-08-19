@@ -50,12 +50,12 @@ params:
             - name: Blog
               url: nlp/
     socialIcons:
-        - name: CV
-          url: "/cv.pdf"
+        # - name: CV
+        #   url: "/cv.pdf"
         - name: Email
           url: mailto:guillermo.rivera.1e@gmail.com
-        - name: YouTube
-          url: https://www.youtube.com/@guillermoalfaro2633
+        # - name: YouTube
+        #   url: https://www.youtube.com/@guillermoalfaro2633
         - name: GitHub
           url: https://github.com/guialfaro053
         - name: Linkedin
