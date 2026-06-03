@@ -1,4 +1,4 @@
-baseURL: "https://guialfaro053.github.io/" 
+baseURL: "https://guialfaro053.github.io/"
 title: Guillermo Alfaro
 paginate: 20
 theme: PaperMod
@@ -7,81 +7,81 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        - name: Blog
-          url: nlp/
-          weight: 1
+  main:
+    - name: Blog
+      url: nlp/
+      weight: 1
 
 params:
-    description: "Guillermo Alfaro's Website"
-    author: Guillermo Alfaro
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: false
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Guillermo Alfaro
-          subtitle: "I am an AI engineer at Brand Engagement Network. I like deploying stuff and making code run faster :)"
-          imageUrl: "pp.JPG"
-          imageWidth: 200
-          imageHeight: 200
-          imageTitle: Guillermo Profile Picture
-          buttons:
-            - name: Blog
-              url: nlp/
-    socialIcons:
-        # - name: CV
-        #   url: "/cv.pdf"
-        - name: Email
-          url: mailto:guillermo.rivera.1e@gmail.com
-        # - name: YouTube
-        #   url: https://www.youtube.com/@guillermoalfaro2633
-        - name: GitHub
-          url: https://github.com/guialfaro053
-        - name: Linkedin
-          url: https://www.linkedin.com/in/guillermo-alfaro-10851a25a/
-        - name: Twitter
-          url: https://twitter.com/G_RiveraAlf
+  description: "Guillermo Alfaro's Website"
+  author: Guillermo Alfaro
+  # googleAnalyticsID: "G-XXXXX"
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  profileMode:
+    enabled: true
+    title: Guillermo Alfaro
+    subtitle: "MLOps Engineer at Neosapience. I make machine learning run fast in production."
+    imageUrl: "pp.JPG"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: Guillermo Profile Picture
+    buttons:
+      - name: Blog
+        url: nlp/
+  socialIcons:
+    # - name: CV
+    #   url: "/cv.pdf"
+    - name: Email
+      url: mailto:guillermo.rivera.1e@gmail.com
+    # - name: YouTube
+    #   url: https://www.youtube.com/@guillermoalfaro2633
+    - name: GitHub
+      url: https://github.com/guialfaro053
+    - name: Linkedin
+      url: https://www.linkedin.com/in/guillermo-alfaro-10851a25a/
+    - name: Twitter
+      url: https://twitter.com/G_RiveraAlf
 
-    assets:
-        disableHLJS: true
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Guillermo Alfaro"
-      icon: favicon.ico
-      iconHeight: 18
+  assets:
+    disableHLJS: true
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+  label:
+    text: "Guillermo Alfaro"
+    icon: favicon.ico
+    iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
