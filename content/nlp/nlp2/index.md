@@ -1,7 +1,7 @@
 ---
 title: "Solving an old physics problem" 
 # date: 2025-07-06
-weight: 1
+weight: 2
 tags: ["Physics","Series","Mechanics"]
 author: ["Guillermo Alfaro. July 2025"]
 description: ""

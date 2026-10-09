@@ -147,6 +147,13 @@
     margin-bottom: 32px;
 }
 
+.post-content .center-table table {
+    width: fit-content;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .post-content table th,
 .post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
     min-width: 80px;
